@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="1" TagName="simulation" Count="26" ExcerptPostId="34" WikiPostId="33" />
+  <row Id="3" TagName="cryptography" Count="17" ExcerptPostId="36" WikiPostId="35" />
+  <row Id="6" TagName="qubit" Count="72" ExcerptPostId="77" WikiPostId="76" />
+  <row Id="7" TagName="quantum-gate" Count="98" ExcerptPostId="149" WikiPostId="148" />
+  <row Id="8" TagName="memory-space" Count="3" ExcerptPostId="1300" WikiPostId="1299" />
+  <row Id="11" TagName="q#" Count="9" ExcerptPostId="1294" WikiPostId="1293" />
+  <row Id="12" TagName="emulation" Count="3" ExcerptPostId="38" WikiPostId="37" />
+  <row Id="13" TagName="quantum-computer" Count="122" ExcerptPostId="32" WikiPostId="31" />
+  <row Id="15" TagName="many-body-systems" Count="5" ExcerptPostId="1728" WikiPostId="1727" />
+  <row Id="18" TagName="faster-than-light" Count="1" ExcerptPostId="165" WikiPostId="164" />
+  <row Id="24" TagName="dilution-refrigerator" Count="2" ExcerptPostId="45" WikiPostId="44" />
+  <row Id="26" TagName="d-wave" Count="18" ExcerptPostId="157" WikiPostId="156" />
+  <row Id="27" TagName="performance" Count="11" ExcerptPostId="174" WikiPostId="173" />
+  <row Id="31" TagName="bqc" Count="1" ExcerptPostId="56" WikiPostId="55" />
+  <row Id="32" TagName="security" Count="1" ExcerptPostId="1189" WikiPostId="1188" />
+  <row Id="33" TagName="optical-quantum-computing" Count="7" ExcerptPostId="159" WikiPostId="158" />
+  <row Id="34" TagName="spdc" Count="2" ExcerptPostId="73" WikiPostId="72" />
+  <row Id="35" TagName="qubit-state" Count="36" ExcerptPostId="1310" WikiPostId="1309" />
+  <row Id="36" TagName="noise" Count="10" ExcerptPostId="96" WikiPostId="95" />
+  <row Id="39" TagName="postselection" Count="2" ExcerptPostId="1784" WikiPostId="1783" />
+  <row Id="40" TagName="bqp" Count="6" ExcerptPostId="1322" WikiPostId="1321" />
+  <row Id="41" TagName="terminology" Count="15" ExcerptPostId="151" WikiPostId="150" />
+  <row Id="43" TagName="quantum-entanglement" Count="45" ExcerptPostId="1254" WikiPostId="1253" />
+  <row Id="44" TagName="quantum-turing-machine" Count="3" ExcerptPostId="1333" WikiPostId="1332" />
+  <row Id="46" TagName="applications" Count="5" ExcerptPostId="1191" WikiPostId="1190" />
+  <row Id="49" TagName="notation" Count="9" ExcerptPostId="1606" WikiPostId="1605" />
+  <row Id="52" TagName="alibaba-cloud" Count="1" ExcerptPostId="1758" WikiPostId="1757" />
+  <row Id="53" TagName="architecture" Count="44" ExcerptPostId="128" WikiPostId="127" />
+  <row Id="56" TagName="quantum-memory" Count="8" ExcerptPostId="1283" WikiPostId="1282" />
+  <row Id="57" TagName="superconducting-quantum-computing" Count="10" ExcerptPostId="161" WikiPostId="160" />
+  <row Id="63" TagName="quantum-annealing" Count="16" ExcerptPostId="147" WikiPostId="146" />
+  <row Id="64" TagName="circuit-model" Count="24" ExcerptPostId="1318" WikiPostId="1317" />
+  <row Id="65" TagName="quantum-speedup" Count="33" ExcerptPostId="1198" WikiPostId="1197" />
+  <row Id="68" TagName="unitarity" Count="6" ExcerptPostId="155" WikiPostId="154" />
+  <row Id="71" TagName="quantum-algorithms" Count="130" ExcerptPostId="1249" WikiPostId="1248" />
+  <row Id="73" TagName="measurement" Count="25" ExcerptPostId="167" WikiPostId="166" />
+  <row Id="75" TagName="fidelity" Count="3" ExcerptPostId="1766" WikiPostId="1765" />
+  <row Id="76" TagName="distance-measures" Count="1" ExcerptPostId="1708" WikiPostId="1707" />
+  <row Id="77" TagName="randomised-benchmarking" Count="6" ExcerptPostId="1764" WikiPostId="1763" />
+  <row Id="78" TagName="fourier-sampling" Count="1" ExcerptPostId="1772" WikiPostId="1771" />
+  <row Id="80" TagName="universal-gates" Count="16" ExcerptPostId="1335" WikiPostId="1334" />
+  <row Id="81" TagName="classical-computing" Count="23" ExcerptPostId="1194" WikiPostId="1193" />
+  <row Id="82" TagName="qcsi-model" Count="1" ExcerptPostId="1760" WikiPostId="1759" />
+  <row Id="83" TagName="state-distillation" Count="2" ExcerptPostId="1762" WikiPostId="1761" />
+  <row Id="84" TagName="fault-tolerance" Count="9" ExcerptPostId="1217" WikiPostId="1216" />
+  <row Id="86" TagName="machine-learning" Count="9" ExcerptPostId="1320" WikiPostId="1319" />
+  <row Id="87" TagName="gate-synthesis" Count="22" ExcerptPostId="1215" WikiPostId="1214" />
+  <row Id="88" TagName="bremermanns-limit" Count="1" ExcerptPostId="1768" WikiPostId="1767" />
+  <row Id="90" TagName="history" Count="5" ExcerptPostId="1239" WikiPostId="1238" />
+  <row Id="91" TagName="quantum-computing-models" Count="13" ExcerptPostId="1246" WikiPostId="1245" />
+  <row Id="92" TagName="ibm-q-experience" Count="17" ExcerptPostId="1296" WikiPostId="1295" />
+  <row Id="93" TagName="qiskit" Count="21" ExcerptPostId="1726" WikiPostId="1725" />
+  <row Id="98" TagName="artificial-intelligence" Count="2" ExcerptPostId="1278" WikiPostId="1277" />
+  <row Id="103" TagName="tensor-product" Count="8" ExcerptPostId="1314" WikiPostId="1313" />
+  <row Id="104" TagName="technical-standards" Count="4" ExcerptPostId="1312" WikiPostId="1311" />
+  <row Id="107" TagName="cryptocurrency" Count="8" ExcerptPostId="1326" WikiPostId="1325" />
+  <row Id="109" TagName="quantum-information" Count="29" ExcerptPostId="1608" WikiPostId="1607" />
+  <row Id="110" TagName="experimental-results" Count="23" ExcerptPostId="1346" WikiPostId="1345" />
+  <row Id="111" TagName="post-quantum-crypto" Count="11" ExcerptPostId="1394" WikiPostId="1393" />
+  <row Id="112" TagName="quantum-supremacy" Count="5" ExcerptPostId="1722" WikiPostId="1721" />
+  <row Id="113" TagName="quantum-decoherence" Count="15" ExcerptPostId="1495" WikiPostId="1494" />
+  <row Id="116" TagName="resource-request" Count="29" ExcerptPostId="1400" WikiPostId="1399" />
+  <row Id="117" TagName="grovers-algorithm" Count="16" ExcerptPostId="1423" WikiPostId="1422" />
+  <row Id="118" TagName="neural-network" Count="9" ExcerptPostId="1774" WikiPostId="1773" />
+  <row Id="119" TagName="deep-learning" Count="1" ExcerptPostId="1776" WikiPostId="1775" />
+  <row Id="120" TagName="shors-algorithm" Count="7" ExcerptPostId="1782" WikiPostId="1781" />
+  <row Id="121" TagName="ion-trap-quantum-computing" Count="2" ExcerptPostId="1724" WikiPostId="1723" />
+  <row Id="122" TagName="scalability" Count="3" ExcerptPostId="1770" WikiPostId="1769" />
+  <row Id="125" TagName="topological-quantum-computing" Count="9" ExcerptPostId="1778" WikiPostId="1777" />
+  <row Id="130" TagName="quantum-programming" Count="22" ExcerptPostId="1513" WikiPostId="1512" />
+  <row Id="131" TagName="superposition" Count="7" ExcerptPostId="1651" WikiPostId="1650" />
+  <row Id="132" TagName="qutrit" Count="5" ExcerptPostId="1492" WikiPostId="1491" />
+  <row Id="136" TagName="quantum-state" Count="22" ExcerptPostId="1714" WikiPostId="1713" />
+  <row Id="138" TagName="qudit" Count="17" ExcerptPostId="1526" WikiPostId="1525" />
+  <row Id="139" TagName="majorana-particle" Count="2" ExcerptPostId="1756" WikiPostId="1755" />
+  <row Id="141" TagName="bayesian-learning" Count="3" ExcerptPostId="1730" WikiPostId="1729" />
+  <row Id="151" TagName="quantum-control" Count="3" ExcerptPostId="1732" WikiPostId="1731" />
+  <row Id="154" TagName="quantum-channel" Count="4" ExcerptPostId="1734" WikiPostId="1733" />
+  <row Id="156" TagName="quantum-correlation" Count="2" ExcerptPostId="1748" WikiPostId="1747" />
+  <row Id="157" TagName="continuous-variable" Count="5" ExcerptPostId="1750" WikiPostId="1749" />
+  <row Id="158" TagName="optimization" Count="7" ExcerptPostId="1653" WikiPostId="1652" />
+  <row Id="160" TagName="quantum-error-correction" Count="39" ExcerptPostId="1752" WikiPostId="1751" />
+  <row Id="161" TagName="quantum-eraser" Count="1" ExcerptPostId="1754" WikiPostId="1753" />
+  <row Id="163" TagName="adiabatic-model" Count="8" ExcerptPostId="1738" WikiPostId="1737" />
+  <row Id="164" TagName="approximation" Count="1" ExcerptPostId="1740" WikiPostId="1739" />
+  <row Id="165" TagName="quantum-cryptography" Count="3" ExcerptPostId="1742" WikiPostId="1741" />
+  <row Id="167" TagName="biocomputing" Count="3" ExcerptPostId="1736" WikiPostId="1735" />
+  <row Id="168" TagName="complexity-theory" Count="28" ExcerptPostId="1712" WikiPostId="1711" />
+  <row Id="171" TagName="simons-algorithm" Count="5" ExcerptPostId="1746" WikiPostId="1745" />
+  <row Id="172" TagName="stabilizer-code" Count="11" ExcerptPostId="1969" WikiPostId="1968" />
+  <row Id="173" TagName="solid-state" Count="10" ExcerptPostId="1874" WikiPostId="1873" />
+  <row Id="174" TagName="qma" Count="3" ExcerptPostId="1935" WikiPostId="1934" />
+  <row Id="176" TagName="quantum-chemistry" Count="2" ExcerptPostId="1947" WikiPostId="1946" />
+  <row Id="178" TagName="superdense-coding" Count="3" ExcerptPostId="1949" WikiPostId="1948" />
+  <row Id="179" TagName="initialization" Count="2" ExcerptPostId="1987" WikiPostId="1986" />
+  <row Id="182" TagName="categorical-quantum-mechanics" Count="1" ExcerptPostId="1991" WikiPostId="1990" />
+  <row Id="184" TagName="quantum-fourier-transform" Count="6" ExcerptPostId="2001" WikiPostId="2000" />
+  <row Id="186" TagName="quantum-technologies" Count="5" ExcerptPostId="2024" WikiPostId="2023" />
+  <row Id="188" TagName="non-locality" Count="4" ExcerptPostId="2088" WikiPostId="2087" />
+  <row Id="189" TagName="contextuality" Count="2" ExcerptPostId="2090" WikiPostId="2089" />
+  <row Id="190" TagName="anyons" Count="5" ExcerptPostId="2032" WikiPostId="2031" />
+  <row Id="191" TagName="open-quantum-systems" Count="1" ExcerptPostId="2076" WikiPostId="2075" />
+  <row Id="192" TagName="cptp-maps" Count="1" ExcerptPostId="2086" WikiPostId="2085" />
+  <row Id="193" TagName="quantum-dynamics" Count="2" ExcerptPostId="2078" WikiPostId="2077" />
+  <row Id="194" TagName="density-matrix" Count="9" ExcerptPostId="2080" WikiPostId="2079" />
+  <row Id="195" TagName="toric-code" Count="1" ExcerptPostId="2642" WikiPostId="2641" />
+  <row Id="196" TagName="controlled-gates" Count="11" ExcerptPostId="2621" WikiPostId="2620" />
+  <row Id="197" TagName="pauli-matrices" Count="2" ExcerptPostId="2316" WikiPostId="2315" />
+  <row Id="198" TagName="postbqp" Count="1" ExcerptPostId="2163" WikiPostId="2162" />
+  <row Id="199" TagName="data-science" Count="1" ExcerptPostId="2165" WikiPostId="2164" />
+  <row Id="202" TagName="bloch-sphere" Count="6" ExcerptPostId="2617" WikiPostId="2616" />
+  <row Id="203" TagName="quantum-multiplexer" Count="1" ExcerptPostId="2619" WikiPostId="2618" />
+  <row Id="204" TagName="quantum-parallelism" Count="1" ExcerptPostId="2638" WikiPostId="2637" />
+  <row Id="205" TagName="boson-sampling" Count="2" ExcerptPostId="2640" WikiPostId="2639" />
+  <row Id="206" TagName="photonics" Count="4" ExcerptPostId="2634" WikiPostId="2633" />
+  <row Id="207" TagName="chimera" Count="2" ExcerptPostId="2615" WikiPostId="2614" />
+  <row Id="208" TagName="projection-operator" Count="1" ExcerptPostId="3760" WikiPostId="3759" />
+  <row Id="209" TagName="matrix-representation" Count="11" ExcerptPostId="3756" WikiPostId="3755" />
+  <row Id="211" TagName="hamiltonian-simulation" Count="9" ExcerptPostId="2647" WikiPostId="2646" />
+  <row Id="216" TagName="quantum-networks" Count="3" ExcerptPostId="3778" WikiPostId="3777" />
+  <row Id="217" TagName="quantum-communication" Count="3" ExcerptPostId="3758" WikiPostId="3757" />
+  <row Id="218" TagName="nielsen-and-chuang" Count="5" ExcerptPostId="2437" WikiPostId="2436" />
+  <row Id="219" TagName="ancilla" Count="1" ExcerptPostId="2649" WikiPostId="2648" />
+  <row Id="221" TagName="energy-relaxation" Count="1" />
+  <row Id="222" TagName="pegasus" Count="1" ExcerptPostId="2612" WikiPostId="2611" />
+  <row Id="224" TagName="graph-states" Count="1" ExcerptPostId="2681" WikiPostId="2680" />
+  <row Id="225" TagName="phase-estimation" Count="3" ExcerptPostId="2593" WikiPostId="2592" />
+  <row Id="226" TagName="nonlocal-games" Count="2" ExcerptPostId="3764" WikiPostId="3763" />
+  <row Id="227" TagName="quantum-walks" Count="4" ExcerptPostId="2629" WikiPostId="2628" />
+  <row Id="228" TagName="hhl-algorithm" Count="18" ExcerptPostId="2631" WikiPostId="2630" />
+  <row Id="231" TagName="solovay-kitaev-algorithm" Count="2" ExcerptPostId="2679" WikiPostId="2678" />
+  <row Id="233" TagName="qutip" Count="1" ExcerptPostId="2661" WikiPostId="2660" />
+  <row Id="235" TagName="quantum-theory" Count="3" ExcerptPostId="3750" WikiPostId="3749" />
+  <row Id="237" TagName="quirk-simulator" Count="2" ExcerptPostId="3762" WikiPostId="3761" />
+  <row Id="239" TagName="quantum-foundations" Count="3" ExcerptPostId="3752" WikiPostId="3751" />
+  <row Id="240" TagName="mathematics" Count="7" ExcerptPostId="3754" WikiPostId="3753" />
+  <row Id="241" TagName="bristlecone" Count="1" />
+  <row Id="243" TagName="rigetti" Count="1" />
+  <row Id="245" TagName="amplitude-amplification" Count="1" />
+  <row Id="246" TagName="cirq" Count="2" />
+  <row Id="247" TagName="quantum-simulation" Count="5" />
+  <row Id="248" TagName="stabilizer-state" Count="1" ExcerptPostId="3867" WikiPostId="3866" />
+  <row Id="250" TagName="communication-complexity" Count="1" />
+  <row Id="251" TagName="quantum-biology" Count="4" />
+  <row Id="252" TagName="circuit-construction" Count="2" />
+  <row Id="253" TagName="nisq" Count="1" ExcerptPostId="3978" WikiPostId="3977" />
+  <row Id="254" TagName="quantum-volume" Count="1" />
+  <row Id="255" TagName="quantum-money" Count="2" ExcerptPostId="4016" WikiPostId="4015" />
+  <row Id="256" TagName="rotor-model" Count="1" ExcerptPostId="4031" WikiPostId="4030" />
+  <row Id="257" TagName="qasm2circ" Count="1" />
+  <row Id="258" TagName="research" Count="2" />
+  <row Id="259" TagName="compilation" Count="1" />
+  <row Id="260" TagName="career-advice" Count="1" />
+  <row Id="261" TagName="spin-qubits" Count="1" />
+</tags>
